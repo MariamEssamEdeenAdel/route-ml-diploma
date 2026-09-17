@@ -57,7 +57,7 @@ Through these problems, I practiced applying Python fundamentals to solve differ
 
 ## Folder Contents
 
-- `Assignment-01.ipynb` — My solutions to the assignment problems.
+- `Assignment-01_Intro_to_programming.ipynb` — My solutions to the assignment problems.
 
 ## Course
 
