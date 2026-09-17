@@ -1,0 +1,21 @@
+Employee_ID,Employee_Name,Department,Salary,Years_Experience,Evaluation_Score,Bonus
+101,John Doe,IT,85000.0,5,88,5000.0
+102,Jane Smith,HR,60000.0,3,72,3000.0
+103,Ali Mansour,Sales,,12,95,7000.0
+104,Sara Lee,IT,95000.0,1,45,
+105,Ben Clark,Finance,70000.0,8,60,4000.0
+106,Eva Green,Sales,55000.0,4,82,2000.0
+107,Mona Ray,HR,,2,55,
+108,Leo King,IT,105000.0,10,91,8000.0
+109,Tom Cook,Finance,72000.0,6,78,4500.0
+110,Anna Bell,IT,88000.0,9,40,2500.0
+111,Ryan Gos,Sales,58000.0,2,65,1500.0
+112,Emma Stone,HR,62000.0,5,89,3500.0
+113,Will Smith,IT,92000.0,11,77,6000.0
+114,Kate Wins,Sales,54000.0,1,30,1000.0
+115,Jack Spar,Finance,75000.0,7,85,5000.0
+116,Bruce Wayne,IT,110000.0,15,98,9000.0
+117,Clark Kent,HR,63000.0,4,70,3200.0
+118,Diana Prince,Sales,59000.0,3,66,2100.0
+119,Barry Allen,IT,98000.0,9,81,6500.0
+120,Hal Jordan,Finance,77000.0,6,74,4800.0
